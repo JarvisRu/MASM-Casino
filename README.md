@@ -26,11 +26,11 @@
 * Big and small 
 
 **Screen Shot**
-1. Start
+1. Start  
 ![Start](start.png)
-2. Menu
+2. Menu  
 ![Menu](menu.png)
-3. Game flow
+3. Game flow  
 ![Game Flow](flow.png)
   
 Download 
